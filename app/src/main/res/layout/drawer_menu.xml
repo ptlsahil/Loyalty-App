@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+
+
+
+
+        <FrameLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+            <android.support.v4.widget.CircleImageView
+                android:id="@+id/menu_profile_image"
+                android:layout_width="match_parent"
+                android:layout_height="250dp"
+                android:layout_gravity="end"
+                android:visibility="visible"
+                android:background="@drawable/tiago" />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginRight="15dp"
+                android:layout_marginTop="10dp"
+                android:layout_gravity="end"
+                android:text="Tiago H."
+                android:gravity="bottom"
+                android:textColor="@color/white"
+                android:textStyle="bold"
+                android:textSize="20dp"/>
+
+        </FrameLayout>
+
+        <!--<LinearLayout-->
+            <!--android:layout_width="match_parent"-->
+            <!--android:layout_height="wrap_content">-->
+
+            <!--<ImageView-->
+                <!--android:layout_width="wrap_content"-->
+                <!--android:layout_height="wrap_content"-->
+                <!--android:layout_marginLeft="15dp"-->
+                <!--android:layout_marginTop="20dp"-->
+                <!--android:src="@drawable/ic_person_black_24dp"/>-->
+            <!--<TextView-->
+                <!--android:layout_width="wrap_content"-->
+                <!--android:layout_height="wrap_content"-->
+                <!--android:layout_marginLeft="15dp"-->
+                <!--android:layout_marginTop="20dp"-->
+                <!--android:text="@string/my_acount"-->
+                <!--android:textAlignment="textStart"-->
+                <!--android:textColor="#3b3a3a"-->
+                <!--android:textSize="15sp"-->
+                <!--android:fontFamily="monospace"/>-->
+        <!--</LinearLayout>-->
+
+        <!--<LinearLayout-->
+            <!--android:layout_width="match_parent"-->
+            <!--android:layout_height="wrap_content">-->
+
+            <!--<ImageView-->
+                <!--android:layout_width="wrap_content"-->
+                <!--android:layout_height="wrap_content"-->
+                <!--android:layout_marginLeft="15dp"-->
+                <!--android:layout_marginTop="20dp"-->
+                <!--android:src="@drawable/ic_attach_money_black_24dp"/>-->
+            <!--<TextView-->
+                <!--android:layout_width="wrap_content"-->
+                <!--android:layout_height="wrap_content"-->
+                <!--android:layout_marginLeft="15dp"-->
+                <!--android:layout_marginTop="20dp"-->
+                <!--android:text="@string/last_requests"-->
+                <!--android:textAlignment="textStart"-->
+                <!--android:textColor="#3b3a3a"-->
+                <!--android:textSize="15sp"-->
+                <!--android:fontFamily="monospace"/>-->
+        <!--</LinearLayout>-->
+
+        <!--<LinearLayout-->
+            <!--android:layout_width="match_parent"-->
+            <!--android:layout_height="match_parent"-->
+            <!--android:layout_marginBottom="50dp"-->
+            <!--android:gravity="bottom">-->
+
+            <!--<ImageView-->
+                <!--android:layout_width="wrap_content"-->
+                <!--android:layout_height="wrap_content"-->
+                <!--android:layout_marginLeft="15dp"-->
+                <!--android:layout_marginTop="20dp"-->
+                <!--android:src="@drawable/ic_assignment_return_black_24dp"/>-->
+            <!--<TextView-->
+                <!--android:layout_width="wrap_content"-->
+                <!--android:layout_height="wrap_content"-->
+                <!--android:layout_marginLeft="15dp"-->
+                <!--android:text="@string/logout"-->
+                <!--android:textColor="#3b3a3a"-->
+                <!--android:textSize="15sp"-->
+                <!--android:fontFamily="monospace"/>-->
+        <!--</LinearLayout>-->
+
+
+
+</LinearLayout>

@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "429576388874",
+    "firebase_url": "https://pushnotificationandroid-dba82.firebaseio.com",
+    "project_id": "pushnotificationandroid-dba82",
+    "storage_bucket": "pushnotificationandroid-dba82.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:429576388874:android:a4feb4b8f2be29f1",
+        "android_client_info": {
+          "package_name": "liuvasconcelos.costumerloyalty"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "429576388874-foslr1l1mecj5stnut542b5m1fu7s4a7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "liuvasconcelos.costumerloyalty",
+            "certificate_hash": "8f3bee258cedf8593bd2d1714eaf336f61786701"
+          }
+        },
+        {
+          "client_id": "429576388874-uib4roafmk5ofd73u1ftga8t559eb4jm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLoq5S7bq2voAr3CclJP4PApjs77BsYDU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "429576388874-uib4roafmk5ofd73u1ftga8t559eb4jm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

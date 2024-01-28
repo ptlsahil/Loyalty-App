@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Fidelização de Clientes</string>
+    <string name="logo_text">My menu</string>
+    <string name="register_text">Cadastro</string>
+    <string name="find_us_text">Contato</string>
+    <string name="backpress">Voltar</string>
+    <string name="login_request">Por favor, digite seu e-mail</string>
+    <string name="password">Senha</string>
+    <string name="password_request">Por favor, digite sua senha</string>
+    <string name="forget_password">Esqueceu sua senha?</string>
+    <string name="name">Nome</string>
+    <string name="name_request">Digite seu nome completo</string>
+    <string name="cpf_request">Digite seu cpf</string>
+    <string name="phone">Telefone</string>
+    <string name="phone_request">Digite seu telefone</string>
+    <string name="forget_password_request">Por favor digite seu e-mail e enviaremos uma nova senha pra você:</string>
+    <string name="main_page_introduction_1">Olá,</string>
+    <string name="main_page_introduction_1_1">! Você tem</string>
+    <string name="main_page_introduction_2">acessos! </string>
+    <string name="main_page_introduction_3">Com 10, você ganha um jantar gratuito!</string>
+    <string name="main_page_win_dinner_1">Olá, </string>
+    <string name="main_page_win_dinner_2">Pronto para receber seu jantar gratuito?</string>
+    <string name="get_code">Pegar código</string>
+    <string name="my_acount">Minha conta</string>
+    <string name="logout">Sair</string>
+    <string name="last_requests">Últimos pedidos</string>
+    <string name="toast">E-mail ou senha incorretos</string>
+    <string name="sent_email_toast">Nova senha enviada para o email fornecido</string>
+    <string name="impossible_to_send_email_toast">Não foi possível resetar a senha</string>
+    <string name="email_subject">MY MENU - Recuperação de senha</string>
+    <string name="email_body">Nova senha: 123456</string>
+    <string name="impossible_to_register_toast">Não foi possível registrar o usuário</string>
+
+    <string name="open">Abrir</string>
+    <string name="close">Fechar</string>
+</resources>
